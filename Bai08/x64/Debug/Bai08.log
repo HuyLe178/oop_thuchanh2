@@ -1,0 +1,9 @@
+﻿  CDiem.cpp
+D:\OOP\THUCHANH\23520610_BT02\Bai08\CDiem.cpp(25,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\OOP\THUCHANH\23520610_BT02\Bai08\CDiem.cpp(26,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\OOP\THUCHANH\23520610_BT02\Bai08\CDiem.cpp(35,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\OOP\THUCHANH\23520610_BT02\Bai08\CDiem.cpp(36,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  CTamgiac.cpp
+  main.cpp
+  Generating Code...
+  Bai08.vcxproj -> D:\OOP\THUCHANH\23520610_BT02\x64\Debug\Bai08.exe
